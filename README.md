@@ -1,7 +1,9 @@
 # 📝 Task Tracker - Python CLI App
 
 This is a simple command-line Task Tracker built using Python. It allows users to manage their to-do tasks stored in a `tasks.txt` file. The script supports adding, deleting, updating, and listing tasks along with tracking their completion status.
-
+---
+# PROJECT URL
+https://github.com/Nagakrishna18/TaskTracker
 ---
 
 ## 🚀 Features
